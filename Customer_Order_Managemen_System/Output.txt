@@ -1,0 +1,81 @@
+0. Exit
+1. Insert Customer
+2. Get all Customer
+3. Find Customer by Id
+4. UpdateCustomer
+5. DeleteCustomer
+Enter choice
+2
+Customer(customerId=1776, customerName=John, customerOrderId=Order(orderId=c833, orderType=Garments, isConfirmed=true))
+Customer(customerId=4f4d, customerName=Harry, customerOrderId=Order(orderId=386fbfa9, orderType=garments, isConfirmed=true))
+0. Exit
+1. Insert Customer
+2. Get all Customer
+3. Find Customer by Id
+4. UpdateCustomer
+5. DeleteCustomer
+Enter choice
+3
+Enter Customer ID
+1776
+Customer: Customer(customerId=1776, customerName=John, customerOrderId=Order(orderId=c833, orderType=Garments, isConfirmed=true))
+0. Exit
+1. Insert Customer
+2. Get all Customer
+3. Find Customer by Id
+4. UpdateCustomer
+5. DeleteCustomer
+Enter choice
+4
+Enter Customer Id
+1776
+Enter Name to update
+Vedant
+0. Exit
+1. Insert Customer
+2. Get all Customer
+3. Find Customer by Id
+4. UpdateCustomer
+5. DeleteCustomer
+Enter choice
+2
+Customer(customerId=1776, customerName=Vedant, customerOrderId=Order(orderId=c833, orderType=Garments, isConfirmed=true))
+Customer(customerId=4f4d, customerName=Harry, customerOrderId=Order(orderId=386fbfa9, orderType=garments, isConfirmed=true))
+0. Exit
+1. Insert Customer
+2. Get all Customer
+3. Find Customer by Id
+4. UpdateCustomer
+5. DeleteCustomer
+Enter choice
+5
+Enter Customer Id
+1776
+Customer deleted.Customer(customerId=1776, customerName=Vedant, customerOrderId=Order(orderId=c833, orderType=Garments, isConfirmed=true))
+0. Exit
+1. Insert Customer
+2. Get all Customer
+3. Find Customer by Id
+4. UpdateCustomer
+5. DeleteCustomer
+Enter choice
+2
+Customer(customerId=4f4d, customerName=Harry, customerOrderId=Order(orderId=386fbfa9, orderType=garments, isConfirmed=true))
+0. Exit
+1. Insert Customer
+2. Get all Customer
+3. Find Customer by Id
+4. UpdateCustomer
+5. DeleteCustomer
+Enter choice
+8
+Error!!! Wrong Input Choice.
+0. Exit
+1. Insert Customer
+2. Get all Customer
+3. Find Customer by Id
+4. UpdateCustomer
+5. DeleteCustomer
+Enter choice
+0
+Exiting from the app
